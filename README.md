@@ -1,8 +1,7 @@
-# 🚀Z3R0Raid🚀
+# 🚀Shrek tools🚀
 Z3R0Raid a discord raider with op features! Some people sell that shit💀 
 Enjoy and do not forget to give it a star. Join new discord server cuz old account got termed https://discord.gg/VkcEZhg5w
 ## 📹 Preview
-![preview](Preview.PNG)
 ## 🔥 Features
 ```
 ✔ Server Spammer (Spams one or multi channels at same time)
