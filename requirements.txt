@@ -3,3 +3,4 @@ websocket-client
 pystyle
 requests
 tls_client
+typing_extensions
