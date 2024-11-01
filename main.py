@@ -1,4 +1,6 @@
-import os, threading, time, uuid, random, json, ctypes, string, sys, string, re, webbrowser, json, base64
+import os
+os.system('pip install -r requirements.txt')
+import threading, time, uuid, random, json, ctypes, string, sys, string, re, webbrowser, json, base64
 webbrowser.open('https://discord.gg/R8Z8Fck2Ug')
 import requests
 import colorama
