@@ -1,3 +1,7 @@
+# How to run
+1 Download python
+2 Open main.py
+
 # 🚀Shrek tools🚀
 Z3R0Raid a discord raider with op features! Some people sell that shit💀 
 Enjoy and do not forget to give it a star.
