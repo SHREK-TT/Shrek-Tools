@@ -1,40 +1,115 @@
-# How to run
-1 Download python
-2 Open main.py
+<br/>
+<p align="center">
+  <a href="https://github.com/SHREK-TM/Shrek-Tools">
+    <img src="https://cdn.discordapp.com/attachments/1207786290976653343/1301976835319529502/161427467.png?ex=67266feb&is=67251e6b&hm=e01ef583bf38135a140e8779ee712d5d68ce4ca0f750a28b1caf4332d716dd29&" alt="Logo" width="150" height="150">
+  </a>
 
-# 🚀Shrek tools🚀
-Shrek tools a discord raider with op features! Some people sell that shit💀 
-Enjoy and do not forget to give it a star.
-## 📹 Preview
-## 🔥 Features
-```
-✔ Server Spammer (Spams one or multi channels at same time)
-✔ Server Joiner 
-✔ Token Checker (Save the data in folder)
-✔ Webhook Deleter (Deletes webhook without perms)
-✔ Webhook Spammer
-✔ VC Joiner (joins a voice channel)
-✔ Nickname/Bio Changer 
-✔ Member Spammer (Spams any person in a discord server)
-✔ Pfp Changer 
-✔ Multi Threading
-✔ Free Or Paid Proxies
-```
-## ✍️・Setup
-1. Add your proxies in `proxies.txt`
-2. Add tokens in `tokens.txt.txt`
-3. Update `config.json` as you want
-4. run `start.bat`
+  <h3 align="center">Shrek-Tools</h3>
 
-## 📄・License
-This project is licensed under the GPL General Public License v3.0 License
-```js
-  ・Educational purpose only and all your consequences caused by you actions is your responsibility
-  ・Selling this Free gen is forbidden
-  ・If you make a copy of this/or fork it, it must be open-source and have credits linking to this repo
-```
-## ⚠️ DISCLAIMER / WARNING 
-This github repository is only for EDUCATIONAL PURPOSES ONLY. I am NOT under any responsibility if anything happens to you.
+  <p align="center">
+    <a href="https://discord.gg/JKsRYZ244U">JOIN OUR DISCORD</a>
+  </p>
+</p>
 
-## ❓ Questions / Issues?
-- Discord Server: https://discord.gg/PkjTH6evfQ
+<p align="center">
+  <img src="https://img.shields.io/github/forks/SHREK-TT/Shrek-Tools?style=flat&label=Forks&color=3bc400">
+  <img src="https://img.shields.io/github/stars/SHREK-TT/Shrek-Tools?style=flat&label=Stars&color=3bc400">
+  <img src="https://img.shields.io/github/repo-size/SHREK-TT/Shrek-Tools?label=Size&color=3bc400">
+  <img src="https://img.shields.io/github/downloads/SHREK-TT/Shrek-Tools/total?style=flat&label=Téléchargements&color=blue">
+
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/R8Z8Fck2Ug">
+    <img alt="lines" src="https://sloc.xyz/github/SHREK-TT/Shrek-Tools">
+</p>
+
+
+# Preview 📸
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1278319934941827165/1301975252519354518/350390818-ed208c18-9958-45b6-8a28-dfbe6977507f_1.png?ex=67266e71&is=67251cf1&hm=e25c59c5185e85e8200508b782987ede13799525c5a1a4f9fd3576b392c55e80&"> 
+</p>
+<p align="center">
+<img src="https://cdn.discordapp.com/attachments/1278319934941827165/1301975261784571964/350390848-3a45541d-7c5f-4237-a249-b4f3636a6c5e_1.png?ex=67266e73&is=67251cf3&hm=c22f23f51f0c90b6703a7ec35840cdbec2d1277b8f078905aa7b6a76fd55c51e&"> 
+</p>
+
+
+
+# Warning❗
+> **DO NOT** Installing Shrek-Tools From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
+
+# Functions⚙️
+```
+
+   ┌── [+] TOKEN NUKERS
+   │    ├── FLASHBANG
+   │    ├── MASS CREATE SERVERS + CHANNELS
+   │    ├── MASS BLOCK
+   │    ├── DELETE ALL PERSONAL SERVERS
+   │    ├── LEAVE ALL SERVERS
+   │    └── NUKE ACCOUNT
+   │
+   ├── [+] WEBHOOK RAIDER
+   │    ├── CHECK WEBHOOK
+   │    ├── WEBHOOK INFO
+   │    ├── DELETE WEBHOOK
+   │    ├── SPAM WEBHOOK
+   │    ├── CREATE WEBHOOKS
+   │    └── CREATE + SPAM WEBHOOKS
+   │
+   ├── [+] TOKEN LEAVER
+   ├── [+] TOKEN ONLINER
+   ├── [+] TOKEN JOINER
+   ├── [+] SERVER NUKER
+   ├── [+] SERVER SPAMMER
+   ├── [+] FRIEND SPAMMER
+   ├── [+] GROUPCHAT SPAMMER
+   ├── [+] TOKEN GEN
+   ├── [+] NITRO GEN
+   ├── [+] PROXY GEN
+   ├── [+] GRABBER GEN 
+   ├── [+] QR GRABBER GEN
+   ├── [+] RAT BOT GEN
+   ├── [+] ID GEN
+   ├── [+] NAME GEN
+   ├── [+] DDOS ATTACKER
+   ├── [+] TOKEN BRUTE-FORCER
+   ├── [+] TOKEN CHECKER
+   ├── [+] TOKEN LOGIN
+   ├── [+] TOKEN INFO
+   ├── [+] PFP CHANGER
+   ├── [+] HYPEQUAD CHANGER
+   ├── [+] BIO CHANGER
+   ├── [+] ID TO TOKEN
+   ├── [+] MASE REPORT
+   ├── [+] VC SPAMMER
+   ├── [+] SERVER LOOKUP
+   └── [+] REACTION SPAMMER
+ 
+```
+### Installation⚡
+
+ clone the repository: 
+```shell
+git clone --recursive https://github.com/SHREK-TT/Shrek-Tools.git
+```
+Then enter the directory:
+```shell
+cd Shrek-Tools
+```
+Finally just run main.py
+
+## Disclaimer❗
+
+|Shrek-Tools was made for Educational purposes|
+|-------------------------------------------------|
+This project was created only for good purposes and personal use.
+By using Shrek-Tools, you agree that you hold responsibility and accountability of any consequences caused by your actions.
+
+## License 📃
+
+Distributed under the MIT License. See [LICENSE](https://github.com/SHREK-TT/Shrek-Tools/blob/main/LICENSE) for more information
+
+# Credits 🔗
+- Fondator: neyrox_space
+<a href="https://discord.gg/R8Z8Fck2Ug">DISCORD</a>
