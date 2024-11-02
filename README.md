@@ -19,11 +19,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://discord.gg/R8Z8Fck2Ug">
-    <img alt="lines" src="https://sloc.xyz/github/SHREK-TT/Shrek-Tools">
-</p>
-
 
 # Preview 📸
 <p align="center">
